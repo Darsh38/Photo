@@ -1,0 +1,17 @@
+.tableAlign{
+
+margin-left: 20%;
+
+
+}
+
+.tablemapAlign{
+	width: 200px;
+}
+
+table, th, td {
+border: 1px solid black;
+border-collapse: collapse;
+
+width: 1000px;
+}
